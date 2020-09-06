@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [X] Added settings page with option to select default tip percentage. ON going back the changes in tip value and bill amount is immediately reflected 
 
 ## Video Walkthrough
 
