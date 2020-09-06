@@ -4,7 +4,7 @@ Tipsy is a tip calculator application for iOS.
 
 Submitted by: Oyendrila Dobe
 
-Time spent: 3 hours spent in total
+Time spent: 7 hours spent in total
 
 ## User Stories
 
@@ -22,13 +22,13 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [X] Added settings page with option to select default tip percentage. ON going back the changes in tip value and bill amount is immediately reflected 
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/oreohere/Tipsy/blob/master/tipsy_video.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/oreohere/Tipsy/blob/master/tipsy_video_with%20settings.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
