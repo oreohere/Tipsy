@@ -15,26 +15,32 @@ The following **required** functionality is complete:
 
 The following **optional** features are implemented:
 
-* [ ] UI animations
-* [ ] Remembering the bill amount across app restarts (if <10mins)
+* [X] UI animations
+* [X] Remembering the bill amount across app restarts (if <10mins)
 * [ ] Using locale-specific currency and currency thousands separators.
-* [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
+* [X] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
 The following **additional** features are implemented:
 
 - [X] Added settings page with option to select default tip percentage. ON going back the changes in tip value and bill amount is immediately reflected 
+- [X] Added fields to allow bill splitting
+- [X] Added option to change mode of app (light or dark) 
+- [X] Added lauchscreen too!
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/oreohere/Tipsy/blob/master/tipsy_video_with%20settings.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/oreohere/Tipsy/blob/master/tipsy_video_with_share_with_keyboard1.gif' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+    - I faced challenges when it comes to remembering data across screens. I had to write redundant code to update the share field. I would like to learn how to reuse methods if possible
+    - Learning about user defualts was a little challenge. Once I got that, it helped me quite a lot.
+    
 
 ## License
 
